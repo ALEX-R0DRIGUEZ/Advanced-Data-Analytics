@@ -1,6 +1,6 @@
 # Advanced-Data-Analytics
 
-Homework problems from my Advanced Data Analytics course. CNN model and Regression analysis.
+Homework problems from my Advanced Data Analytics course. CNN model and Regression analysis implemented in Python Jupyter notebook.
 
 ## CNN_Fashion-Product-Identification
 
